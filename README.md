@@ -234,4 +234,4 @@ If our work is helpful for your research, please consider citing:
     primaryClass={cs.CV}
 }
 ```
-If you are interested in our work, you may can also see our other works: [BGAD (CVPR2023)](https://github.com/xcyao00/BGAD), [PMAD (AAAI2023)](https://github.com/xcyao00/PMAD), [FOD (ICCV2023)](https://github.com/xcyao00/FOD), [HGAD (ECCV2024)](https://github.com/xcyao00/HGAD), [ResAD (NeurIPS2024)](https://github.com/xcyao00/ResAD), [MMR-AD (CVPR2026)](https://xcyao00.github.io/MMR-AD).
+If you are interested in our work, you may can also see our other works: [BGAD (CVPR2023)](https://github.com/xcyao00/BGAD), [PMAD (AAAI2023)](https://github.com/xcyao00/PMAD), [FOD (ICCV2023)](https://github.com/xcyao00/FOD), [HGAD (ECCV2024)](https://github.com/xcyao00/HGAD), [ResAD (NeurIPS2024)](https://github.com/xcyao00/ResAD), [MMR-AD (CVPR2026)](https://xcyao00.github.io/MMR-AD), [ResAD++ (IJCV2026)](https://github.com/xcyao00/ResAD).
